@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fancy-like/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Fancy Like](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fancy-like/) |
+| **Get License** | [Get License For Fancy Like](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fancy-like/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the rhythm of your shadow on the wall
+> You got me leaning when I didn't plan to fall
+> There is a magic in the sweet perfume you wear
+> I'm catching fire every time you pull me near
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
