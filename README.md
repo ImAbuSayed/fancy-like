@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fancy-like/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fancy Like](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fancy-like/) |
+| **Get License** | [License this song: Fancy Like](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fancy-like/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c80facb499903488bb96b66f35fa04e8f76701d44ee644407e6d6b1d3916d293` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
